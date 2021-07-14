@@ -9,5 +9,5 @@ var Year = prompt("Quanti anni hai?")
 
 
 
-document.getElementById ("info").innerHTML = Name + Surname + Color + Year
+document.getElementById ("info").innerHTML = Name + Surname + Color + Year;
 
