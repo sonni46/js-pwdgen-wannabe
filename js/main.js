@@ -5,7 +5,7 @@ var Surname = prompt("Dimmi il tuo cognome?")
 
 var Color = prompt("Dimmi il tuo colore preferito?")
 
-var Year = prompt("Quanti anni hai?")
+var Year = 21
 
 
 
