@@ -1,11 +1,11 @@
 //  chiedere il nome cognome colore eta
-var Name = prompt("Dimmi il tuo nome?")
+var Name = prompt("Dimmi il tuo nome?");
 
-var Surname = prompt("Dimmi il tuo cognome?")
+var Surname = prompt("Dimmi il tuo cognome?");
 
-var Color = prompt("Dimmi il tuo colore preferito?")
+var Color = prompt("Dimmi il tuo colore preferito?");
 
-var Year = prompt("Quanti anni hai?")
+var Year = prompt("Quanti anni hai?");
 
 var d = 2021 - Year;
 
